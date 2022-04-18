@@ -1,0 +1,2 @@
+# likaifang
+print('hello world')
